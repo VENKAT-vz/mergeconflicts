@@ -1,1 +1,1 @@
-Humid : high
+Humid : moderate
