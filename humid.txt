@@ -1,1 +1,1 @@
-Humid : none
+Humid : high
